@@ -1,5 +1,5 @@
 # spynotex.com
-Spy Note - Android Remote Administration Tool. Official Website: https://www.spynotex.com/
+Spy Note - Android Remote Administration Tool. Official Website: https://www.spynoterat.com/
 
 The Most Important Update of the Year!
 We have released version [7.2] with comprehensive improvements and more efficient performance to provide a unique and seamless user experience.
@@ -21,7 +21,7 @@ We recommend updating now to enjoy all the new improvements and features!
 
 
 #Official website:
-www.spynotex.com
+www.spynoterat.com
 @spynotesupport
 https://t.me/SpyNotexOfficial
 
